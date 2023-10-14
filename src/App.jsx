@@ -8,7 +8,7 @@ function App() {
   
 
   return (
-    <main className='bg-black text-white min-h-screen text-xl'>
+    <main className='bg-black text-white min-h-screen text-xl grid justify-center'>
         <h1> PRACTICA GRUPAL</h1>
         <h3>integrantes:</h3>
         <CarlosCoronado />
