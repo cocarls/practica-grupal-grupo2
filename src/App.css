@@ -1,0 +1,10 @@
+img{
+    max-width: 100%;
+    border: 2px solid white;
+    border-radius: 20px 20px 0 0;
+}
+
+.containerImg{
+    width: 500px;
+    border-radius: 20px;
+}
