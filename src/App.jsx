@@ -3,6 +3,7 @@ import './App.css'
 import CarlosCoronado from './components/CarlosCoronado'
 import Cristian from './components/Cristian'
 import Luis from './components/Luis'
+import Rajhu from './components/Rajhu'
 
 function App() {
   
@@ -14,6 +15,7 @@ function App() {
         <CarlosCoronado />
         <Cristian />
         <Luis />
+        <Rajhu />
     </main>
   )
 }

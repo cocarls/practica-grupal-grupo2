@@ -5,6 +5,8 @@ img{
 }
 
 .containerImg{
+    display: block;
+    margin: auto;
     width: 500px;
     border-radius: 20px;
 }
